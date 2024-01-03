@@ -1,1 +1,6 @@
-Will add project links shortly
+Omnifood HTML page (HTML+CSS course project) link-https://github.com/chandangowda33/Omnifood.git
+
+forkify app (JS course project) link-https://github.com/chandangowda33/forkify.git
+
+FlexZone HTML page (own project) link-https://github.com/chandangowda33/FlexZone.git
+
